@@ -11,7 +11,7 @@ const YourApp = () => {
       }}>
       {/* Image Component */}
       <Text style={{fontSize: 28, fontWeight: 'bold'}}>
-       MAI HU BAGAD BILLA
+       MAI HU BAGAD BILLA ....
       </Text>
       <Image
         source={{
